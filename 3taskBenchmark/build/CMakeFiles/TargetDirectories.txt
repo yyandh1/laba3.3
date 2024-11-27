@@ -1,3 +1,0 @@
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskBenchmark/build/CMakeFiles/main_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskBenchmark/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskBenchmark/build/CMakeFiles/rebuild_cache.dir

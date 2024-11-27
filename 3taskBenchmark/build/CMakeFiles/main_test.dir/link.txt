@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main_test.dir/main_test.cpp.o CMakeFiles/main_test.dir/hashtable.cpp.o CMakeFiles/main_test.dir/List1.cpp.o CMakeFiles/main_test.dir/List2.cpp.o CMakeFiles/main_test.dir/massive.cpp.o CMakeFiles/main_test.dir/queue.cpp.o CMakeFiles/main_test.dir/stack.cpp.o CMakeFiles/main_test.dir/tree.cpp.o -o main_test  /usr/local/lib/libbenchmark.a -lrt 
