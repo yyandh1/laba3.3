@@ -1,12 +1,10 @@
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/stack_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/hashtable_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/List1_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/List2_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/array_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/queue_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/tree_test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/coverage.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/lcov_report.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/test.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/CMakeFiles/rebuild_cache.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/stack_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/hashtable_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/List1_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/List2_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/array_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/queue_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/tree_test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/test.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/edit_cache.dir
+/home/yyandh1/localrepos1/laba3.3/3taskTest/build/CMakeFiles/rebuild_cache.dir

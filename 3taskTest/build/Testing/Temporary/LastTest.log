@@ -1,10 +1,10 @@
-Start testing: Nov 25 21:47 +07
+Start testing: Nov 27 13:23 +07
 ----------------------------------------------------------
 1/7 Testing: StackTest
 1/7 Test: StackTest
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/stack_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"StackTest" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/stack_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"StackTest" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 5 tests from 1 test suite.
@@ -16,29 +16,29 @@ Output:
 [ RUN      ] StackTest.PushElements
 [       OK ] StackTest.PushElements (0 ms)
 [ RUN      ] StackTest.PopElements
-[       OK ] StackTest.PopElements (4 ms)
+[       OK ] StackTest.PopElements (0 ms)
 [ RUN      ] StackTest.WriteToFile
-[       OK ] StackTest.WriteToFile (16 ms)
+[       OK ] StackTest.WriteToFile (0 ms)
 [ RUN      ] StackTest.ClearStack
 [       OK ] StackTest.ClearStack (0 ms)
-[----------] 5 tests from StackTest (21 ms total)
+[----------] 5 tests from StackTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 5 tests from 1 test suite ran. (21 ms total)
+[==========] 5 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 5 tests.
 <end of output>
-Test time =   0.09 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest" end time: Nov 25 21:47 +07
+"StackTest" end time: Nov 27 13:23 +07
 "StackTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 2/7 Testing: HashtableTest
 2/7 Test: HashtableTest
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/hashtable_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"HashtableTest" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/hashtable_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"HashtableTest" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 6 tests from 1 test suite.
@@ -55,25 +55,25 @@ Output:
 [ RUN      ] HashTableTest.Clear
 [       OK ] HashTableTest.Clear (0 ms)
 [ RUN      ] HashTableTest.WriteToFile
-[       OK ] HashTableTest.WriteToFile (19 ms)
-[----------] 6 tests from HashTableTest (19 ms total)
+[       OK ] HashTableTest.WriteToFile (0 ms)
+[----------] 6 tests from HashTableTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 6 tests from 1 test suite ran. (19 ms total)
+[==========] 6 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 6 tests.
 <end of output>
-Test time =   0.08 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"HashtableTest" end time: Nov 25 21:47 +07
+"HashtableTest" end time: Nov 27 13:23 +07
 "HashtableTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 3/7 Testing: List1Test
 3/7 Test: List1Test
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/List1_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"List1Test" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/List1_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"List1Test" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 11 tests from 1 test suite.
@@ -96,29 +96,29 @@ Output:
 [ RUN      ] ListOneTest.Print
 [       OK ] ListOneTest.Print (0 ms)
 [ RUN      ] ListOneTest.WriteToFile
-[       OK ] ListOneTest.WriteToFile (14 ms)
+[       OK ] ListOneTest.WriteToFile (0 ms)
 [ RUN      ] ListOneTest.Search
 [       OK ] ListOneTest.Search (0 ms)
 [ RUN      ] ListOneTest.RemoveFromEmptyList
 [       OK ] ListOneTest.RemoveFromEmptyList (0 ms)
-[----------] 11 tests from ListOneTest (14 ms total)
+[----------] 11 tests from ListOneTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 11 tests from 1 test suite ran. (14 ms total)
+[==========] 11 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 11 tests.
 <end of output>
-Test time =   0.08 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"List1Test" end time: Nov 25 21:47 +07
+"List1Test" end time: Nov 27 13:23 +07
 "List1Test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 4/7 Testing: List2Test
 4/7 Test: List2Test
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/List2_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"List2Test" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/List2_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"List2Test" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 13 tests from 1 test suite.
@@ -143,38 +143,38 @@ Output:
 [ RUN      ] DoubleListTest.Print
 [       OK ] DoubleListTest.Print (0 ms)
 [ RUN      ] DoubleListTest.WriteToFile
-[       OK ] DoubleListTest.WriteToFile (5 ms)
+[       OK ] DoubleListTest.WriteToFile (2 ms)
 [ RUN      ] DoubleListTest.RemoveFromEmptyList
 [       OK ] DoubleListTest.RemoveFromEmptyList (0 ms)
 [ RUN      ] DoubleListTest.RemoveAllElements
 [       OK ] DoubleListTest.RemoveAllElements (0 ms)
 [ RUN      ] DoubleListTest.AddAndRemoveInEmptyList
 [       OK ] DoubleListTest.AddAndRemoveInEmptyList (0 ms)
-[----------] 13 tests from DoubleListTest (5 ms total)
+[----------] 13 tests from DoubleListTest (2 ms total)
 
 [----------] Global test environment tear-down
-[==========] 13 tests from 1 test suite ran. (5 ms total)
+[==========] 13 tests from 1 test suite ran. (2 ms total)
 [  PASSED  ] 13 tests.
 <end of output>
-Test time =   0.06 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"List2Test" end time: Nov 25 21:47 +07
+"List2Test" end time: Nov 27 13:23 +07
 "List2Test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 5/7 Testing: ArrayTest
 5/7 Test: ArrayTest
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/array_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"ArrayTest" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/array_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"ArrayTest" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 10 tests from 1 test suite.
 [----------] Global test environment set-up.
 [----------] 10 tests from ArrayTest
 [ RUN      ] ArrayTest.Constructor
-[       OK ] ArrayTest.Constructor (4 ms)
+[       OK ] ArrayTest.Constructor (0 ms)
 [ RUN      ] ArrayTest.Append
 [       OK ] ArrayTest.Append (0 ms)
 [ RUN      ] ArrayTest.Insert
@@ -188,66 +188,66 @@ Output:
 [ RUN      ] ArrayTest.Display
 [       OK ] ArrayTest.Display (0 ms)
 [ RUN      ] ArrayTest.WriteToFile
-[       OK ] ArrayTest.WriteToFile (16 ms)
+[       OK ] ArrayTest.WriteToFile (0 ms)
 [ RUN      ] ArrayTest.Free
 [       OK ] ArrayTest.Free (0 ms)
 [ RUN      ] ArrayTest.Resize
 [       OK ] ArrayTest.Resize (0 ms)
-[----------] 10 tests from ArrayTest (21 ms total)
+[----------] 10 tests from ArrayTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 10 tests from 1 test suite ran. (21 ms total)
+[==========] 10 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 10 tests.
 <end of output>
-Test time =   0.14 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayTest" end time: Nov 25 21:47 +07
+"ArrayTest" end time: Nov 27 13:23 +07
 "ArrayTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 6/7 Testing: QueueTest
 6/7 Test: QueueTest
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/queue_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"QueueTest" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/queue_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"QueueTest" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 7 tests from 1 test suite.
 [----------] Global test environment set-up.
 [----------] 7 tests from QueueTest
 [ RUN      ] QueueTest.Constructor
-[       OK ] QueueTest.Constructor (4 ms)
+[       OK ] QueueTest.Constructor (0 ms)
 [ RUN      ] QueueTest.Enqueue
 [       OK ] QueueTest.Enqueue (0 ms)
 [ RUN      ] QueueTest.Dequeue
 [       OK ] QueueTest.Dequeue (0 ms)
 [ RUN      ] QueueTest.WriteToFile
-[       OK ] QueueTest.WriteToFile (6 ms)
+[       OK ] QueueTest.WriteToFile (0 ms)
 [ RUN      ] QueueTest.Clear
 [       OK ] QueueTest.Clear (0 ms)
 [ RUN      ] QueueTest.EnqueueDequeueEdgeCases
 [       OK ] QueueTest.EnqueueDequeueEdgeCases (0 ms)
 [ RUN      ] QueueTest.EnqueueDequeueLarge
 [       OK ] QueueTest.EnqueueDequeueLarge (0 ms)
-[----------] 7 tests from QueueTest (11 ms total)
+[----------] 7 tests from QueueTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 7 tests from 1 test suite ran. (12 ms total)
+[==========] 7 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 7 tests.
 <end of output>
-Test time =   0.08 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"QueueTest" end time: Nov 25 21:47 +07
+"QueueTest" end time: Nov 27 13:23 +07
 "QueueTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 7/7 Testing: TreeTest
 7/7 Test: TreeTest
-Command: "/mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build/tree_test"
-Directory: /mnt/c/Users/nikru/OneDrive/Desktop/Работы прога/2semLabaRudk/Laba-3-semestr-3/3taskTest/build
-"TreeTest" start time: Nov 25 21:47 +07
+Command: "/home/yyandh1/localrepos1/laba3.3/3taskTest/build/tree_test"
+Directory: /home/yyandh1/localrepos1/laba3.3/3taskTest/build
+"TreeTest" start time: Nov 27 13:23 +07
 Output:
 ----------------------------------------------------------
 [==========] Running 8 tests from 1 test suite.
@@ -268,18 +268,18 @@ Output:
 [ RUN      ] AVLTreeTest.Print
 [       OK ] AVLTreeTest.Print (0 ms)
 [ RUN      ] AVLTreeTest.WriteToFile
-[       OK ] AVLTreeTest.WriteToFile (19 ms)
-[----------] 8 tests from AVLTreeTest (19 ms total)
+[       OK ] AVLTreeTest.WriteToFile (0 ms)
+[----------] 8 tests from AVLTreeTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 8 tests from 1 test suite ran. (19 ms total)
+[==========] 8 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 8 tests.
 <end of output>
-Test time =   0.08 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"TreeTest" end time: Nov 25 21:47 +07
+"TreeTest" end time: Nov 27 13:23 +07
 "TreeTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 25 21:47 +07
+End testing: Nov 27 13:23 +07
