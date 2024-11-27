@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage CMakeFiles/List2_test.dir/List2_test.cpp.o -o List2_test  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

@@ -1,0 +1,8 @@
+StackTest 2 0.0455731
+HashtableTest 2 0.0418712
+List1Test 2 0.0385624
+List2Test 2 0.0295964
+ArrayTest 2 0.0723311
+QueueTest 2 0.0406457
+TreeTest 2 0.0406712
+---

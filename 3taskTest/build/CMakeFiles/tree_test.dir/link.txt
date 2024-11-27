@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage CMakeFiles/tree_test.dir/tree_test.cpp.o -o tree_test  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

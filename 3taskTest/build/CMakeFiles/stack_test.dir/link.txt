@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage CMakeFiles/stack_test.dir/stack_test.cpp.o -o stack_test  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
